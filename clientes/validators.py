@@ -1,9 +1,11 @@
 from rest_framework import serializers
 import re
+from validate_docbr import CPF
 
 
 def cpd_valido(numero_cpf):
-    return len(numero_cpf) == 11
+    cpf = CPF()
+    return cpf.validate(numero_cpf)
 
 
 def nome_valido(nome):
