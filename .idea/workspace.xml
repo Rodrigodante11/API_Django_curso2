@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ea5ef6f-c182-4d05-a26d-498cd079b044" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/clientes/validators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clientes/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/clientes/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/clientes/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/clientes/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clientes/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/clientes/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clientes/validators.py" beforeDir="false" afterPath="$PROJECT_DIR$/clientes/validators.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659893033768</updated>
-      <workItem from="1659893042704" duration="5563000" />
+      <workItem from="1659893042704" duration="6531000" />
     </task>
     <servers />
   </component>
